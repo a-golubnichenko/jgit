@@ -1,4 +1,4 @@
-# Java Git
+# Java Git Fork
 
 An implementation of the Git version control system in pure Java.
 
